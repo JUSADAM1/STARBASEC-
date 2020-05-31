@@ -1,0 +1,10 @@
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\bin\Debug\starbase.exe.config
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\bin\Debug\starbase.exe
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\bin\Debug\starbase.pdb
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.csprojAssemblyReference.cache
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.Properties.Resources.resources
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.csproj.GenerateResource.cache
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.csproj.CoreCompileInputs.cache
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.exe
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.pdb
+C:\Users\J_A_N_Programming357\source\repos\starbase\starbase\obj\Debug\starbase.Form1.resources
